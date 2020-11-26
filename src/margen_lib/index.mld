@@ -1,0 +1,8 @@
+
+{1 Library margen_lib}
+
+This is the description
+of the margen OCaml project
+
+
+The entry point of this library is the module: {!Margen_lib}.
